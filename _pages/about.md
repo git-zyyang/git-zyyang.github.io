@@ -40,15 +40,11 @@ redirect_from:
 - 发展经济学
 
 ## 已发表（录用）论文
-- 周文，**杨正源**.中国式现代化与西方现代化:基于比较视角的政治经济学考察.***学习与探索***，2023年第11期。（**CSSCI，北大核心，社科基金资助期刊**）
-- 周文，唐教成，**杨正源**.新时代以来中国经济学研究的概况、总体性判断与展望——基于经济学代表性期刊的文献计量分析.***科技与出版***，2023年第11期。（**CSSCI**）
-- 廖信林，**杨正源**.要素禀赋差异、营商环境与中国对外直接投资——来自“一带一路”沿线国家的经验证据. ***财贸研究***（**CSSCI，北大核心**）（已录用）
-
-- 廖信林，**杨正源**. 数字经济赋能长三角地区制造业转型升级的效应测度与实现路径. ***华东经济管理***，2021年第6期（**CSSCI，北大核心，中国知网学术精要高PCSI、高被引（131次）、高下载论文（10532次），2021年度“优秀论文”）**
-  
-- 周文，**杨正源**. 高质量发展与共同富裕：理论逻辑和现实路径. ***西安财经大学学报***，2023年第3期（**CSSCI扩展版**）
-
-- Bai, D. B., L. Ye, and **Z. Y. Yang** et al. Impact of Climate Change On Agricultural Productivity: A Combination of Spatial Durbin Model and Entropy Approaches. ***International Journal of Climate Change Strategies and Management***.（**JCR Q2，IF=3.6**）
+- 周文，**杨正源**.中国式现代化与西方现代化:基于比较视角的政治经济学考察.***学习与探索***，2023年第11期。（**CSSCI，北大核心，AMI核心，社科基金资助期刊**）<br>
+- 周文，唐教成，**杨正源**.新时代以来中国经济学研究的概况、总体性判断与展望——基于经济学代表性期刊的文献计量分析.***科技与出版***，2023年第11期。（**CSSCI，北大核心**）<br>
+- 周文，**杨正源**.高质量发展与共同富裕：理论逻辑与现实路径.****西安财经大学学报***，2023年第3期（**CSSCI扩展版**）<br>
+- 廖信林，**杨正源**. 数字经济赋能长三角地区制造业转型升级的效应测度与实现路径. ***华东经济管理***，2021年第6期（**CSSCI，北大核心，中国知网学术精要高PCSI、高被引（131次）、高下载论文（10532次），2021年度“优秀论文”**）<br>
+- Bai, D. B., L. Ye, and **Z. Y. Yang** et al. Impact of Climate Change On Agricultural Productivity: A Combination of Spatial Durbin Model and Entropy Approaches. ***International Journal of Climate Change Strategies and Management***.（**JCR Q2，IF=3.6**）<br>
 
 
 
