@@ -56,9 +56,9 @@ redirect_from:
 
 - 廖信林，**杨正源**，王立勇. 东道国营商环境与中国对外直接投资：来自“一带一路”沿线国家的经验证据. ***财贸研究***，2024年第3期（**CSSCI**）[下载PDF](/assets/东道国营商环境与中国对外直...带一路”沿线国家的经验证据_廖信林.pdf)<br>
 
-- **Yang, Z**., Ye, L. (2024). Digital Economy and Energy Intensity: The Light and Dark Side. ***Review of Economic Assessment***, 3(4), 42.[下载PDF](/assets/REA-03040039.pdf)<br>
+- **Yang, Z**., Ye, L. (2024). Digital Economy and Energy Intensity: The Light and Dark Side. ***Review of Economic Assessment***, 3(4), 42.[下载PDF](/assets/REA-03040042.pdf)<br>
 
-- Bai, D. B., L. Ye, and **Z. Y. Yang** et al. Impact of Climate Change On Agricultural Productivity: A Combination of Spatial Durbin Model and Entropy Approaches. ***International Journal of Climate Change Strategies and Management***.（**JCR Q2**）(/assets/REA-03040039.pdf)<br>
+- Bai, D. B., L. Ye, and **Z. Y. Yang** et al. Impact of Climate Change On Agricultural Productivity: A Combination of Spatial Durbin Model and Entropy Approaches. ***International Journal of Climate Change Strategies and Management***.（**JCR Q2**）[下载PDF](/assets/Impact of Climate Change On Agricultural Productivity.pdf)<br>
 
 ## 学术专著
 - 参与学术专著《赶超：产业政策与强国之路》撰写，2023年8月已由天津人民出版社出版<br>
