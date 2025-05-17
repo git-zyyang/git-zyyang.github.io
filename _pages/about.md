@@ -102,7 +102,7 @@ redirect_from:
 
 
 ## 学术审稿
-担任Economic Analysis and Policy(Q1), Journal of Environmental Management(Q1), Technological Forecasting & Social Change(Q1), Plos One(Q1), Frontiers Ecology And Evolution(Q2), Review of Economic Assessment等期刊的匿名审稿人
+-  担任Economic Analysis and Policy(Q1), Journal of Environmental Management(Q1), Technological Forecasting & Social Change(Q1), Plos One(Q1), Frontiers Ecology And Evolution(Q2), Review of Economic Assessment等期刊的匿名审稿人
 
 
 # 🎖 竞赛与实践经历
