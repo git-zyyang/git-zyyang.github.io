@@ -42,23 +42,23 @@ redirect_from:
 ## 已发表（录用）论文
 - 周文，**杨正源**.人工智能赋能新质生产力：作用机理与实践进路.***改革***，2025年第4期。（**CSSCI**）[下载PDF](/assets/人工智能赋能新质生产力：作用机理与实践进路_周文.pdf)<br>
 
-- 周文，**杨正源**.新质生产力与国家竞争优势：内在逻辑与战略重点.***教学与研究***，2024年第6期。（**CSSCI**）[下载PDF]<br>
+- 周文，**杨正源**.新质生产力与国家竞争优势：内在逻辑与战略重点.***教学与研究***，2024年第6期。（**CSSCI**）[下载PDF](/assets/人工智能赋能新质生产力：作用机理与实践进路_周文.pdf)<br>
 
-- 周文，**杨正源**.新质生产力：破解西方文明困境与开创人类文明新形态.***河北学刊***，2024年第5期。（**CSSCI**）[下载PDF]<br>
+- 周文，**杨正源**.新质生产力：破解西方文明困境与开创人类文明新形态.***河北学刊***，2024年第5期。（**CSSCI**）[下载PDF](/assets/新质生产力：破解西方文明困境与开创人类文明新形态.pdf)<br>
 
-- 周文，**杨正源**.中国式现代化与西方现代化:基于比较视角的政治经济学考察.***学习与探索***，2023年第11期。（**CSSCI**）[下载PDF]<br>
+- 周文，**杨正源**.中国式现代化与西方现代化:基于比较视角的政治经济学考察.***学习与探索***，2023年第11期。（**CSSCI**）[下载PDF](/assets/中国式现代化与西方现代化：...于比较视角的政治经济学考察_周文 (1).pdf)<br>
 
-- 周文，唐教成，**杨正源**.新时代以来中国经济学研究的概况、总体性判断与展望——基于经济学代表性期刊的文献计量分析.***科技与出版***，2023年第11期。（**CSSCI**）[下载PDF]<br>
+- 周文，唐教成，**杨正源**.新时代以来中国经济学研究的概况、总体性判断与展望——基于经济学代表性期刊的文献计量分析.***科技与出版***，2023年第11期。（**CSSCI**）[下载PDF](/assets/新时代以来中国经济学研究的概况、总体性判断与展望.pdf)<br>
 
-- 周文，**杨正源**.高质量发展与共同富裕：理论逻辑与现实路径.****西安财经大学学报***，2023年第3期（**CSSCI扩展版，2023年度“优秀论文”**）[下载PDF]<br>
+- 周文，**杨正源**.高质量发展与共同富裕：理论逻辑与现实路径.****西安财经大学学报***，2023年第3期（**CSSCI扩展版，2023年度“优秀论文”**）[下载PDF](/assets/西安财经大学学报.高质量发展与共同富裕：理论逻辑和现实路径.pdf)<br>
 
 - 廖信林，**杨正源**. 数字经济赋能长三角地区制造业转型升级的效应测度与实现路径. ***华东经济管理***，2021年第6期（**CSSCI，中国知网学术精要高PCSI、高被引、高下载论文，2021年度“优秀论文”**）<br>
 
-- 廖信林，**杨正源**，王立勇. 东道国营商环境与中国对外直接投资：来自“一带一路”沿线国家的经验证据. ***财贸研究***，2024年第3期（**CSSCI**）[下载PDF]<br>
+- 廖信林，**杨正源**，王立勇. 东道国营商环境与中国对外直接投资：来自“一带一路”沿线国家的经验证据. ***财贸研究***，2024年第3期（**CSSCI**）[下载PDF](/assets/东道国营商环境与中国对外直...带一路”沿线国家的经验证据_廖信林.pdf)<br>
 
-- **Yang, Z**., Ye, L. (2024). Digital Economy and Energy Intensity: The Light and Dark Side. ***Review of Economic Assessment***, 3(4), 42.[下载PDF]<br>
+- **Yang, Z**., Ye, L. (2024). Digital Economy and Energy Intensity: The Light and Dark Side. ***Review of Economic Assessment***, 3(4), 42.[下载PDF](/assets/REA-03040039.pdf)<br>
 
-- Bai, D. B., L. Ye, and **Z. Y. Yang** et al. Impact of Climate Change On Agricultural Productivity: A Combination of Spatial Durbin Model and Entropy Approaches. ***International Journal of Climate Change Strategies and Management***.（**JCR Q2**）<br>
+- Bai, D. B., L. Ye, and **Z. Y. Yang** et al. Impact of Climate Change On Agricultural Productivity: A Combination of Spatial Durbin Model and Entropy Approaches. ***International Journal of Climate Change Strategies and Management***.（**JCR Q2**）(/assets/Impact of Climate Change On Agricultural Productivity.pdf)<br>
 
 ## 学术专著
 - 参与学术专著《赶超：产业政策与强国之路》撰写，2023年8月已由天津人民出版社出版<br>
