@@ -52,8 +52,6 @@ redirect_from:
 
 - 周文，**杨正源**.高质量发展与共同富裕：理论逻辑与现实路径.****西安财经大学学报***，2023年第3期（**CSSCI扩展版，2023年度“优秀论文”**）[下载PDF](/assets/西安财经大学学报.高质量发展与共同富裕：理论逻辑和现实路径.pdf)<br>
 
-- 廖信林，**杨正源**. 数字经济赋能长三角地区制造业转型升级的效应测度与实现路径. ***华东经济管理***，2021年第6期（**CSSCI，中国知网学术精要高PCSI、高被引、高下载论文，2021年度“优秀论文”**）<br>
-
 - 廖信林，**杨正源**，王立勇. 东道国营商环境与中国对外直接投资：来自“一带一路”沿线国家的经验证据. ***财贸研究***，2024年第3期（**CSSCI**）[下载PDF](/assets/东道国营商环境与中国对外直...带一路”沿线国家的经验证据_廖信林.pdf)<br>
 
 - **Yang, Z**., Ye, L. (2024). Digital Economy and Energy Intensity: The Light and Dark Side. ***Review of Economic Assessment***, 3(4), 42.[下载PDF](/assets/REA-03040042.pdf)<br>
@@ -102,7 +100,7 @@ redirect_from:
 
 
 ## 学术审稿
--  担任Economic Analysis and Policy(Q1), Journal of Environmental Management(Q1), Technological Forecasting & Social Change(Q1), Plos One(Q1), Frontiers Ecology And Evolution(Q2), Review of Economic Assessment等期刊的匿名审稿人
+- 担任Economic Analysis and Policy(Q1), Journal of Environmental Management(Q1), Technological Forecasting & Social Change(Q1), Plos One(Q1), Frontiers Ecology And Evolution(Q2), Review of Economic Assessment等期刊的匿名审稿人
 
 
 # 🎖 竞赛与实践经历
